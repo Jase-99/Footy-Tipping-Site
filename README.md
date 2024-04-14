@@ -2,7 +2,7 @@
 
 # Footy Tipping Site
 
-A website that allows users to log in and submit their weekly footy tips, this site is created, to assist in managing our family footy tips, this is POC siteand will be used in my resume
+A website that allows users to log in and submit their weekly footy tips, this site is created, to assist in managing our family footy tips, this is POC site and will be used in my resume
 
 ## Demo
 
